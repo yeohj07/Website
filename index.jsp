@@ -6,8 +6,6 @@
     <title>Test Page</title>
   </head>
   <body>
-    <script>
-      location.href = 'login.jsp';
-    </script>
+    Test String
   </body>
 </html>
