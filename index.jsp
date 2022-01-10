@@ -1,4 +1,4 @@
 <!DOCTYPE html>
 <html>
-  Hi
+  <h1>Hi</h1>
 </html>
